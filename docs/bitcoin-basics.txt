@@ -1,0 +1,23 @@
+Bitcoin es una moneda digital descentralizada creada en 2009 por Satoshi Nakamoto.
+
+A diferencia del dinero tradicional, Bitcoin no es controlado por ningún gobierno o banco 
+central. Funciona a través de una red peer-to-peer donde las transacciones son verificadas 
+por nodos de la red y registradas en una blockchain — un libro contable público e inmutable.
+
+Conceptos clave de Bitcoin:
+- Satoshi: La unidad más pequeña de Bitcoin. 1 Bitcoin = 100,000,000 satoshis.
+- Wallet: Una aplicación o dispositivo donde guardas tus Bitcoin.
+- Lightning Network: Una capa de pago sobre Bitcoin que permite transacciones instantáneas 
+  y casi gratuitas. Es ideal para micropagos como el cashback.
+- Blockchain: El registro público de todas las transacciones de Bitcoin.
+- Minería: El proceso de verificar transacciones y crear nuevos Bitcoin.
+
+¿Por qué Bitcoin?
+1. Escasez: Solo existirán 21 millones de Bitcoin, lo que lo hace deflacionario.
+2. Descentralización: Nadie lo controla, es resistente a la censura.
+3. Portabilidad: Puedes enviar valor a cualquier parte del mundo en minutos.
+4. Divisibilidad: Puedes comprar fracciones pequeñísimas (satoshis).
+5. Transparencia: Todas las transacciones son verificables en la blockchain.
+
+Bitcoin ha pasado de valer centavos a miles de dólares por unidad. A pesar de su 
+volatilidad, muchos lo ven como "oro digital" — una reserva de valor para el largo plazo.

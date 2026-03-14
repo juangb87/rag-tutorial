@@ -1,0 +1,25 @@
+Bumbei es una startup mexicana que convierte tus compras cotidianas en Bitcoin.
+
+¿Cómo funciona? Cuando compras en una de las tiendas asociadas a Bumbei, recibes cashback 
+en Bitcoin. No necesitas cambiar tus hábitos de consumo — simplemente compras lo que ibas 
+a comprar, y una parte de eso se convierte en satoshis (la unidad más pequeña de Bitcoin).
+
+Bumbei tiene más de 70 tiendas asociadas y un catálogo de más de 5 millones de productos. 
+Entre las tiendas están Amazon, Liverpool, Mercado Libre, Nike, y muchas más.
+
+El proceso es simple:
+1. Entra a app.bumbei.com
+2. Busca la tienda donde quieres comprar
+3. Haz click en el enlace de la tienda
+4. Compra como normalmente lo harías
+5. Recibe tu cashback en Bitcoin automáticamente
+
+Bumbei fue fundada por Juan Gomez, quien tiene más de 14 años de experiencia en la 
+industria del marketing de afiliados. La misión de Bumbei es democratizar el acceso a 
+Bitcoin y hacer que la libertad financiera esté al alcance de todos.
+
+La filosofía de Bumbei es: "Buscar tu libertad financiera es un acto revolucionario."
+
+Bumbei usa la Lightning Network de Bitcoin para hacer las transacciones rápidas y con 
+comisiones mínimas. Los usuarios pueden retirar su cashback a cualquier wallet de Bitcoin 
+que soporte Lightning.
